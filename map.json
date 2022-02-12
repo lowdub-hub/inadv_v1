@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lowdub-hub.github.io\/inadv_V1\/sites\/Teams_Room_Verona.html"
+                 "value":"https:\/\/lowdub-hub.github.io\/inadv_v1\/sites\/Teams_Room_Verona.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lowdub-hub.github.io\/inadv_V1\/sites\/Kaffe_Counter.html"
+                 "value":"https:\/\/lowdub-hub.github.io\/inadv_v1\/sites\/Kaffe_Counter.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -144,7 +144,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lowdub-hub.github.io\/inadv_V1\/sites\/Webcam_HR.html"
+                 "value":"https:\/\/lowdub-hub.github.io\/inadv_v1\/sites\/Webcam_HR.html"
                 }],
          "type":"tilelayer",
          "visible":true,
